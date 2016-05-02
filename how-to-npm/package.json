@@ -1,0 +1,16 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.9",
+  "description": "This is some shit for how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tu tran",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "npm"
+  ]
+}
